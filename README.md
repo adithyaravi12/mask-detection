@@ -3,7 +3,7 @@
 dataset: https://github.com/cabani/MaskedFace-Net
 reference: https://www.youtube.com/watch?v=FPRFYYMlhyw&t=3086s
 
-procedure:
+Procedure:
 
 	1. Import dependencies
 	2. Import dataset - create a for loop to import all images all together
@@ -21,4 +21,8 @@ procedure:
 		a. Change the input and output layers and the activation function and create new_model with the modified changes
 	9. Compile model and fit it with necessary parameters
 	10. Test the model with few images
-  11. Run on real time
+	11. Run on real time 
+	
+	
+![image](https://user-images.githubusercontent.com/98291038/170888425-c076670e-3cce-49f8-88c9-042890e4e700.png)
+
